@@ -6,3 +6,7 @@ Gegenstand dieses Repositorys soll es sein, 2225 Dokumente von der BBC-Nachricht
 
 - HC
 - GMM
+
+# Potenzielle Fragen:
+
+- Wie kann ich mir die verwendeten Wörter der SVM anzeigen lassen?

@@ -4,12 +4,12 @@ Gegenstand dieses Repositorys soll es sein, 2225 Dokumente von der BBC-Nachricht
 
 # TO-DOs:
 
-- HC (Hierarchical Clustering Dendrogram herausfinden, was das genau aussagt.)
 - GMM
 
 # Potenzielle Fragen:
 
-- Wieso erkennt HC nicht nur 2 Cluster sondern drei bei Vergleich von zwei Kategorien?
+- Grafik mit der Cluster size besprechen.
+- Wieso erkennt HC nicht nur 2 Cluster sondern drei bei Vergleich von zwei Kategorien (Clustering Parameter Problem bei n_cluster)?
 - Wie kann ich mir die verwendeten Wörter der SVM anzeigen lassen?
 - Grafiken KMeans und HC, sind die gut/schlecht?
 

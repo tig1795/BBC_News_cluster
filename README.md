@@ -4,7 +4,6 @@ Gegenstand dieses Repositorys soll es sein, 2225 Dokumente von der BBC-Nachricht
 
 # TO-DOs:
 
-- GMM (andere Kategorienkonstellationen, Andere PCA/TSNE/GMM Parameter ausprobieren, Bilder abspeichern)
 - DBScan
 
 # Potenzielle Fragen:

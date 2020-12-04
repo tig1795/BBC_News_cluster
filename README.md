@@ -4,9 +4,8 @@ Gegenstand dieses Repositorys soll es sein, 2225 Dokumente von der BBC-Nachricht
 
 # TO-DOs:
 
-- DBScan (Parameter nachlesen und ausprobieren um Ergebnisse zu verbessern)
-- Topic Modelling
-- Autoencoder
+- Topic Modelling (Wenn Zeit, Suche nach optimalem k Wert fixen)
+- Autoencoder (mit Colab durchführen)
 
 # Potenzielle Fragen:
 

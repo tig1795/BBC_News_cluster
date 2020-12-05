@@ -5,7 +5,8 @@ Gegenstand dieses Repositorys soll es sein, 2225 Dokumente von der BBC-Nachricht
 # TO-DOs:
 
 - Topic Modelling (Wenn Zeit, Suche nach optimalem k Wert fixen)
-- Autoencoder (mit Colab durchführen)
+- Meeting mit Jan ausmachen
+- Theoriteil anfangen
 
 # Potenzielle Fragen:
 

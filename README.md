@@ -7,8 +7,6 @@ Datensatz: https://www.kaggle.com/hgultekin/bbcnewsarchive
 # TO-DOs:
 
 - Topic Modelling (Wenn Zeit, Suche nach optimalem k Wert fixen)
-- Meeting mit Jan ausmachen
-- Theoriteil anfangen
 
 # Potenzielle Fragen:
 
@@ -19,7 +17,6 @@ Datensatz: https://www.kaggle.com/hgultekin/bbcnewsarchive
 
 # Ergebnisse:
 
-- KMeans: Dimensionsreduktions danach besser als davor, TSNE am besten, Am besten zu Cluster Sport.
 - HC: PCA am besten, TSNE zeigt nur eine Kategorie an, Tech klappt am besten mit einer anderen Kategory.
     Mit Entertainment schwierig, da alle Kategorien, außer tech, auch im Entertainment auftreten (TV!).
     

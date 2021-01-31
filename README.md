@@ -47,82 +47,69 @@ Bilder
          kmeans_pca_content.png
          kmeans_tsne_categorymarker_POS.png
          kmeans_tsne_categorymarker_POS_5_Cluster.png
-Dataexploration + KMeans Modification
-4 months ago
-kmeans_tsne_categorymarker_content.png
-Dataexploration + KMeans Modification
-4 months ago
-kmeans_tsne_categorymarker_stemming_5_Cluster.png
-Dataexploration + KMeans Modification
-4 months ago
-kmeans_tsne_categorymarker_text_10_Cluster.png
-Modification KMeans + SVM
-3 months ago
-kmeans_tsne_categorymarker_text_5_Cluster.png
-Modification KMeans + SVM
-3 months ago
-kmeans_tsne_davor_categorymarker_content_5_Cluster.png
+         kmeans_tsne_categorymarker_content.png
+         kmeans_tsne_categorymarker_stemming_5_Cluster.png
+         kmeans_tsne_categorymarker_text_10_Cluster.png
+         kmeans_tsne_categorymarker_text_5_Cluster.png
+         kmeans_tsne_davor_categorymarker_content_5_Cluster.png
+       SVM
+         SVM_Classification_Report_text.PNG
+       Topic Modeling 
+         TM_Gensim_Word2Vec_Ergebnis.PNG
+         lda_text_alles.html
+         topic_modelling_verteilung.png
+         wordcloud_Entertainment.png
+         wordcloud_Technology.png
+         wordcloud_Topic7.png 
 
-             
-       
-Literatur
+Datensätze:
 
-    HC: hier werden die Beziehungen zwischen den Genres und Künstlern beschrieben, 
-        die für die Erklärung der Ausreißer benötigt wurden
-    Visualization_in_Stylometry
-    Topic-modelling-with-scikitlearn
-
-datasets
-
-This folder contains the old and the new record.
-
-    Currently_dataset
-        song_decades_long.csv
-    Old_datasets
-        Datenexploration_1
-            pop_genre1_2.csv
-            rock_genre1_2.csv
-            sample_25percent.csv
-            songs_longtexts.csv
-            songtexte_bereinigt_gekuerzt.csv
-        Datenexploration_2
-            songs_100.csv
-            songs_25.xlsx
-        Discogs
-            discogs_dates.xlsx
-            discogs_id.xlsx
-        Spotify
-            songdata.csv
-            songdata.xlsx
-            songs_decades.csv
-            songs_plus_dates.csv
-    datasets_info
-
-
-
+         bbc-news-data.csv
+         bbcNews_stemm_types_tokens.csv
+         news_POS_POS_tags.csv
+         news_POS_POS_tags_nouns_adjectives_verb.csv (aktueller Datensatz)
+         news_sample_25percent.csv
+         word_frequencies_by_category_and_pos.csv
+         word_frequencies_by_category_strict.csv 
+         
 Notebooks
 
-    .ipynb_checkpoints
-    0_preprocessing
-    1_KMeans
-        Dimensionsreduktion
-            umap
-        Implementierung_K-Means
-        K_Means
-    2_SVM
-        SVM_KM
-    3_HC
-    4_GMM
-    5_DBScan
-    6_TopicModeling
-        mallet_text
-    7_AutoEncoder
-        Final AutoEncoder
-    8_Delta
-        zscores
-    Clustering_Verfahren .ipynb - Pipeline for all procedures
-
--.gitattributes
-
+       0_Preprocessing
+         25_Percent_Dataset.ipynb
+         30 MFWs.ipynb
+         Dataexploration.ipynb
+         Preprocessing.ipynb 
+       1_KMeans
+         KMeans.ipynb
+         KMeans_with_Stopwords.ipynb
+         KMeans_with_miniBatch.ipynb 
+       2_SVM
+         SVM_BBC.ipynb
+       3_Hierarchisches Clustering
+         HC_PCA.ipynb
+         HC_TSNE.ipynb
+         HC_UMAP.ipynb 
+       4_Gaussian Mixture Models
+         GMM_different_combinations.ipynb
+         Gaussian mixture models.ipynb 
+       5_DBScan
+         DB_Scan.ipynb 
+       6_Topic Modeling
+         Topic_Mod.ipynb
+         Topic_Modeling2.ipynb
+         articles-model-nmf-k10.pkl
+         articles-raw.pkl
+         articles-tfidf.pkl
+         stopwords.txt
+         text.txt
+         w2v-model.bin
+         w2v-model.bin.trainables.syn1neg.npy
+         w2v-model.bin.wv.vectors.npy 
+       7_Auto Encoder
+         Auto Encoder.ipynb
+         Auto_Encoder_einzelne_Kategorien(Colab).ipynb
+         Auto_Encoder_ganzer_Datensatz(Colab).ipynb
+         autoencoder_embeddings.npy 
+       
 -README.md
 

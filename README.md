@@ -62,7 +62,7 @@ Bilder
          wordcloud_Technology.png
          wordcloud_Topic7.png 
 
-Datensätze:
+Datensaetze:
 
          bbc-news-data.csv
          bbcNews_stemm_types_tokens.csv
